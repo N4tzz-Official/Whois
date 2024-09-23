@@ -22,8 +22,8 @@ To run this tool, you need to have:
    Open your terminal and run the following command to clone the repository:
 
    ```bash
-   git clone <(https://github.com/N4tzz-Official/Whois/)>
-Replace <(https://github.com/N4tzz-Official/Whois/)> with the actual URL.
+   git clone https://github.com/N4tzz-Official/Whois
+Replace https://github.com/N4tzz-Official/Whois with the actual URL.
 
 Navigate to the Directory
 
@@ -77,7 +77,7 @@ Salin kode
 
 ### How to Customize
 
-- **Repository URL**: Replace `<(https://github.com/N4tzz-Official/Whois/)>` with your actual GitHub repository URL.
+- **Repository URL**: Replace `https://github.com/N4tzz-Official/Whois` with your actual GitHub repository URL.
 - **Email**: Update the contact email to your own.
 
 Feel free to modify any sections according to your preferences or additional features you may add to the tool! If you have any specific additions or changes in mind, let me know!
