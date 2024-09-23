@@ -22,8 +22,8 @@ To run this tool, you need to have:
    Open your terminal and run the following command to clone the repository:
 
    ```bash
-   git clone <URL_OF_YOUR_GITHUB_REPOSITORY>
-Replace <URL_OF_YOUR_GITHUB_REPOSITORY> with the actual URL.
+   git clone <(https://github.com/N4tzz-Official/Whois/)>
+Replace <(https://github.com/N4tzz-Official/Whois/)> with the actual URL.
 
 Navigate to the Directory
 
@@ -70,15 +70,14 @@ Contributing
 If you want to contribute to this project, feel free to submit a pull request or open an issue for discussion.
 
 Contact
-For any inquiries, feel free to reach out to me at [your-email@example.com].
+For any inquiries, feel free to reach out to me at [N4tzzOfficial@proton.me].
 
 markdown
 Salin kode
 
 ### How to Customize
 
-- **Repository URL**: Replace `<URL_OF_YOUR_GITHUB_REPOSITORY>` with your actual GitHub repository URL.
-- **Project Directory**: Change `<YOUR_PROJECT_DIRECTORY>` to the name of your project folder.
+- **Repository URL**: Replace `<(https://github.com/N4tzz-Official/Whois/)>` with your actual GitHub repository URL.
 - **Email**: Update the contact email to your own.
 
 Feel free to modify any sections according to your preferences or additional features you may add to the tool! If you have any specific additions or changes in mind, let me know!
